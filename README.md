@@ -103,6 +103,9 @@ ipl-data-analysis/
 ├── top_bowlers.png       # Chart — top wicket takers
 ├── season_trends.png     # Chart — runs per season
 └── README.md             # This file
+
+Dataset source: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+Download the CSV files from Kaggle and place them in the same folder before running.
 ```
 
 ---
